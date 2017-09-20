@@ -12,3 +12,7 @@ Lista de cosas:
 * uno
 * dos
 * tres
+
+![imagen](/media/asir/TOSHIBA EXT/add/capturada1.jpg)
+
+Esto es un enlace a [google](http://www.google.es).

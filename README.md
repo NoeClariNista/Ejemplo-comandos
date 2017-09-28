@@ -1,5 +1,6 @@
 # add1718-noelia
 
+[ir al texto 6](#id1)
 Texto Markdown.
 
 **Texto en negrita.**
@@ -22,4 +23,4 @@ Esto es un enlace a [google](http://www.google.es).
 ### Titulo3
 #### Titulo4
 ##### Titulo5
-###### Titulo6
+###### [Titulo6](#id1)
